@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetsMicroservice", "PetsMicroservice.csproj", "{A2CB4E60-2749-46A1-8141-00E90C4CFC17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2CB4E60-2749-46A1-8141-00E90C4CFC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CB4E60-2749-46A1-8141-00E90C4CFC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CB4E60-2749-46A1-8141-00E90C4CFC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CB4E60-2749-46A1-8141-00E90C4CFC17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C2420B4-CB8C-45BB-9723-996F2E4D4023}
+	EndGlobalSection
+EndGlobal
